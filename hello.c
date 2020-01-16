@@ -5,8 +5,12 @@ int main (void) {
 printf("Hushvini Palaniappan");
 printf("Civil Engineering")
 
-return 0;
+
 printf("William Turman");
 printf("Civil Engineering")
+
+printf("David Ho");
+printf("Computer Science")
+return 0;
 }
 print
